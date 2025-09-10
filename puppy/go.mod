@@ -1,3 +1,3 @@
-module github.com/YAPRCAR/puppy
+module github.com/YAPRCAR/Puppy/puppy
 
 go 1.25.0
